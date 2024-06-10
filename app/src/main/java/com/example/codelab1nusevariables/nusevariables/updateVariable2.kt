@@ -6,4 +6,6 @@ fun main() {
 
     cartTotal = 20
     println("Total: $cartTotal")
+    cartTotal--
+    println("Total: $cartTotal " )
 }
